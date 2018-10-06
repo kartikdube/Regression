@@ -60,3 +60,5 @@ we can write a horizontal bar over an expression to indicate the average value o
 
 The coefficient of determination ("R squared") is equal to ![](http://latex.codecogs.com/png.latex?r%5E%7B2%7D_%7Bxy%7D) when the model is linear with a single independent variable. See sample correlation coefficient for additional details. 
 
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Okuns_law_quarterly_differences.svg/450px-Okuns_law_quarterly_differences.svg.png)
