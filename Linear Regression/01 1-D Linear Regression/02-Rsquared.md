@@ -15,12 +15,13 @@ then the variability of the data set can be measured using three sums of squares
   
   ![](https://wikimedia.org/api/rest_v1/media/math/render/svg/0ab5cc13b206a34cc713e153b192f93b685fa875)
   
+  ![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Coefficient_of_Determination.svg/600px-Coefficient_of_Determination.svg.png)
   
   If
    - R^2 is 1 : Perfect fit
    - R^2 is 0 : Bad fit
    - R^2 is < 0 : Worst fit
   
-  ![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Coefficient_of_Determination.svg/600px-Coefficient_of_Determination.svg.png)
+ 
   
   
